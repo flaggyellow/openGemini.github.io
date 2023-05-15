@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as r,Z as e,a1 as s}from"./framework-a4aa538b.js";const o={},c=e("h1",{id:"普罗米修斯远程读写",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#普罗米修斯远程读写","aria-hidden":"true"},"#"),s(" 普罗米修斯远程读写")],-1),n=[c];function _(d,h){return a(),r("div",null,n)}const l=t(o,[["render",_],["__file","prometheus.html.vue"]]);export{l as default};
